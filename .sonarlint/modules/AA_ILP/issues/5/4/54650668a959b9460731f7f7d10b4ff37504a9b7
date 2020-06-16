@@ -1,0 +1,18 @@
+
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ñ…¬¸»-
+esquid:UselessImportCheck	":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ñ…¬¸»-
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8î©Ë¸»-
+zsquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ8î©Ë¸»-
+_squid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8ñ…¬¸»-
+bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8î©Ë¸»-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÇ–Äùÿÿÿÿ
+psquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ8ñ…¬¸»-
+\squid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8î©Ë¸»-
+usquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ8ñ…¬¸»-
+rsquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ8ñ…¬¸»-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢8ñ…¬¸»-
+tsquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8ñ…¬¸»-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8İŒªª½-
+hsquid:UselessImportCheck"8Remove this unused import 'org.testng.annotations.Test'.(á½úáùÿÿÿÿ8İŒªª½-
+Ysquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8İŒªª½-
+psquid:UselessImportCheck"FRemove this unused import 'com.relevantcodes.extentreports.LogStatus'.(ÁıñK8İŒªª½-

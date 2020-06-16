@@ -1,0 +1,102 @@
+
+q
+squid:S134Ò"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡ÿ¾Îøÿÿÿÿ8£ùÙÕ½-
+dsquid:UselessImportCheck-";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Wsquid:UselessImportCheck	"3Remove this unused import 'org.testng.ITestResult'.(ä¡±‘
+gsquid:UselessImportCheck&"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»
+ksquid:UselessImportCheck>"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+dsquid:UselessImportCheck)";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ
+Bsquid:UselessImportCheckO"Remove this duplicated import.(ÏÖÔø
+Gsquid:UselessImportCheckU"Remove this duplicated import.(ªº»Úıÿÿÿÿ
+Xsquid:UselessImportCheckV"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+jsquid:S1223Y"LRename this method to prevent any misunderstanding or make it a constructor.(ıçëÙ8£ùÙÕ½-
+l
+squid:S134Ë"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“8£ùÙÕ½-
+Y
+squid:S106æ";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ8£ùÙÕ½-
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ
+hsquid:S1132¯"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8£ùÙÕ½-
+Osquid:S1481e",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8£ùÙÕ½-
+zsquid:S00117k"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8£ùÙÕ½-
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+zsquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8£ùÙÕ½-
+isquid:UselessImportCheck*"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ
+Vsquid:UselessImportCheckQ"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+msquid:S00100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıçëÙ8£ùÙÕ½-
+msquid:S1132–"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8£ùÙÕ½-
+Dsquid:S1166ú"%Either log or rethrow this exception.(®ö½8£ùÙÕ½-
+Gsquid:UselessImportCheck;"Remove this duplicated import.(á½úáùÿÿÿÿ
+zsquid:S00117f"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8£ùÙÕ½-
+Bsquid:UselessImportCheckL"Remove this duplicated import.(“£°
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+Bsquid:UselessImportCheckK"Remove this duplicated import.(¥ËôÖ
+gsquid:S1192o"IDefine a constant instead of duplicating this literal "topFrame" 3 times.(ğÁ¾”8£ùÙÕ½-
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+usquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıçëÙ8£ùÙÕ½-
+q
+squid:S134Š"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Š ®×şÿÿÿÿ8£ùÙÕ½-
+Rsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+^squid:UselessImportCheck,":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+q
+squid:S134Ä"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8£ùÙÕ½-
+jsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ü“é¯8£ùÙÕ½-
+msquid:S1132Ş"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8£ùÙÕ½-
+esquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(ıçëÙ8£ùÙÕ½-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+`squid:UselessImportCheck""<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+hsquid:S1132¾"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8£ùÙÕ½-
+nsquid:UselessImportCheck="JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Gsquid:UselessImportCheck9"Remove this duplicated import.(Ó¨Ş¨ûÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.BeforeClass'.(Ó¨Ş¨ûÿÿÿÿ
+Rsquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+msquid:S1192z"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ8£ùÙÕ½-
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ÜÑ¸àøÿÿÿÿ
+zsquid:S00117e"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8£ùÙÕ½-
+Wsquid:UselessImportCheck"3Remove this unused import 'java.sql.DriverManager'.(“£°
+Vsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+bsquid:UselessImportCheck">Remove this unused import 'org.testng.annotations.AfterClass'.(´ä
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+usquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıçëÙ8£ùÙÕ½-
+hsquid:S1132¡"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8£ùÙÕ½-
+jsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(Üì¢ì8£ùÙÕ½-
+Bsquid:UselessImportCheck7"Remove this duplicated import.(´ä
+Bsquid:UselessImportCheckN"Remove this duplicated import.(ÛïÆŸ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+^squid:S1854e";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8£ùÙÕ½-
+Isquid:S00108É")Either remove or fill this block of code.(¬Ù¨Í8£ùÙÕ½-
+Wsquid:UselessImportCheckP"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+isquid:UselessImportCheck0"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+usquid:S00117b"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8£ùÙÕ½-
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(åÅ›é
+Nsquid:S00108û")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8£ùÙÕ½-
+]
+squid:S106^";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8£ùÙÕ½-
+msquid:S1132ë"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8£ùÙÕ½-
+asquid:UselessImportCheck8"=Remove this unused import 'org.testng.annotations.AfterTest'.(Ü³¹Ê
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+usquid:S00117i"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8£ùÙÕ½-
+ksquid:UselessImportCheck3"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.testng.AssertJUnit'.(ÊİÁ‘
+psquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(ıçëÙ8£ùÙÕ½-
+gsquid:S1132›"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs8£ùÙÕ½-
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+ squid:MethodCyclomaticComplexityY"]The Cyclomatic Complexity of this method "VoidAmt" is 19 which is greater than 10 authorized.(ıçëÙ8£ùÙÕ½-
+asquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(¸Ã˜ 
+msquid:S1132‡"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8£ùÙÕ½-
+Dsquid:S1166É"%Either log or rethrow this exception.(¬Ù¨Í8£ùÙÕ½-
+{squid:S00117å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ8£ùÙÕ½-
+}squid:UselessImportCheckC"TRemove this unnecessary import: same package classes are always implicitly imported.(™äõ©ıÿÿÿÿ
+gsquid:UselessImportCheck:">Remove this unused import 'org.testng.annotations.BeforeTest'.(‚µö¨üÿÿÿÿ
+ssquid:UselessImportCheck/"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+Xsquid:UselessImportCheckS"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+usquid:S00117g"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8£ùÙÕ½-
+Usquid:UselessImportCheck",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.AfterMethod'.(ÙÅ«§ÿÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+Asquid:UselessImportCheckM"Remove this duplicated import.(ˆóÚw
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ÿÖÿÍ8Ù£ÛÕ½-
+isquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(»ò“8Ù£ÛÕ½-
+Msquid:S1172Y"/Remove this unused method parameter "FileName".(ıçëÙ8Ù£ÛÕ½-

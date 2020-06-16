@@ -1,0 +1,28 @@
+
+Ksquid:S1481"/Remove this unused "TenderType" local variable.(ÊÞ³¨ÿÿÿÿÿ
+Hsquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+Esquid:S1172"/Remove this unused method parameter "FileName".(Áõùk
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Zsquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊÞ³¨ÿÿÿÿÿ
+esquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áõùk
+Tsquid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í
+]squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Áõùk
+Wsquid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(Ï‡‚ÿÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áõùk
+<squid:S1166e"%Either log or rethrow this exception.(¬Ù¨Í
+bsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Áõùk
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ºáðÕ
+Asquid:S00108T")Either remove or fill this block of code.(¬Ù¨Í
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³ŒÎ”
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤þÿÿÿÿ
+fsquid:S1192+"JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªýÿÿÿÿ
+<squid:S1166T"%Either log or rethrow this exception.(¬Ù¨Í
+Asquid:S00108e")Either remove or fill this block of code.(¬Ù¨Í
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+Esquid:S1481".Remove this unused "ProductID" local variable.(œñ†í
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸŽ†£úÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áõùk

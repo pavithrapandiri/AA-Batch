@@ -1,0 +1,68 @@
+
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸£ğûÿÿÿÿ8úÓº²»-
+^squid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8úÓº²»-
+usquid:S1132©"QMove the "Money Order" string literal on the left side of this string comparison.(°¿Ÿèşÿÿÿÿ8úÓº²»-
+gsquid:S1854!"DRemove this useless assignment to local variable "ESign_TenderType".(«îÒ€üÿÿÿÿ8úÓº²»-
+hsquid:S1132i"JMove the "Cash" string literal on the left side of this string comparison.(µ‡ŞÍ8úÓº²»-
+zsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8úÓº²»-
+zsquid:S1192k"\Define a constant instead of duplicating this literal "Capture the Payment Value :" 3 times.(¤ãÖ»8úÓº²»-
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(„Èº­şÿÿÿÿ8úÓº²»-
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(²ù¡³üÿÿÿÿ8úÓº²»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8úÓº²»-
+usquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8úÓº²»-
+X
+squid:S106"";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8úÓº²»-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Èº­şÿÿÿÿ8Ùù¾µ»-
+isquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.( „Êº8úÓº²»-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(„Èº­şÿÿÿÿ8úÓº²»-
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(°¤û¯8úÓº²»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8úÓº²»-
+dsquid:S1192j"FDefine a constant instead of duplicating this literal "value" 3 times.(Š«8úÓº²»-
+€squid:S1192j"bDefine a constant instead of duplicating this literal "transactionDataBean.paymentBalAmt" 3 times.(Š«8úÓº²»-
+]
+squid:S106%";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8úÓº²»-
+Rsquid:S1172"/Remove this unused method parameter "FileName".(„Èº­şÿÿÿÿ8á²Àµ»-
+p
+squid:S134}"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8úÓº²»-
+lsquid:S1192{"IDefine a constant instead of duplicating this literal "Submit22" 3 times.(·˜Ïâøÿÿÿÿ8úÓº²»-
+psquid:S1192y"SDefine a constant instead of duplicating this literal "Enter the Password" 3 times.(¨ñ¾08úÓº²»-
+xsquid:S1192x"UDefine a constant instead of duplicating this literal "requestBean.password" 3 times.(ˆö„‰ùÿÿÿÿ8úÓº²»-
+Isquid:S1166‚"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ8úÓº²»-
+Xsquid:S1481"5Remove this unused "Bank_ChkgAcctNbr" local variable.(Ã¸£ğûÿÿÿÿ8úÓº²»-
+wsquid:S1192p"YDefine a constant instead of duplicating this literal "Enter the Payment Amount" 3 times.(‘î‹ÿ8úÓº²»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ8á²Àµ»-
+Xsquid:S1481!"5Remove this unused "ESign_TenderType" local variable.(«îÒ€üÿÿÿÿ8úÓº²»-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(„Èº­şÿÿÿÿ8Ùù¾µ»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ8á²Àµ»-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ8á²Àµ»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8úÓº²»-
+osquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(İÀÄ£úÿÿÿÿ8úÓº²»-
+q
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8úÓº²»-
+…squid:S1192|"gDefine a constant instead of duplicating this literal "Click on the Finish Write off Recovery" 3 times.(•×é±8úÓº²»-
+\squid:S1854?">Remove this useless assignment to local variable "PaymentAMT".(ï¦ƒÀ8úÓº²»-
+‚squid:S1192r"dDefine a constant instead of duplicating this literal "transactionDataBean.tenderTypeFirst" 3 times.(åôõ‚8úÓº²»-
+isquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.( „Êº8úÓº²»-
+zsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8úÓº²»-
+vsquid:S1192v"XDefine a constant instead of duplicating this literal "Enter the Tender Amount" 3 times.(û¬Éæ8úÓº²»-
+q
+squid:S134À"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8úÓº²»-
+†squid:S1192u"cDefine a constant instead of duplicating this literal "transactionDataBean.tenderAmtFirst" 3 times.(îåòúÿÿÿÿ8úÓº²»-
+zsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«îÒ€üÿÿÿÿ8úÓº²»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Èº­şÿÿÿÿ8úÓº²»-
+|squid:S1192s"YDefine a constant instead of duplicating this literal "Select the Tender Type::" 3 times.(®‚²üúÿÿÿÿ8úÓº²»-
+gsquid:S1854"DRemove this useless assignment to local variable "Bank_ChkgAcctNbr".(Ã¸£ğûÿÿÿÿ8úÓº²»-
+ssquid:S1132‡"TMove the "Cashiers Check" string literal on the left side of this string comparison.(“±Š8úÓº²»-
+Osquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8úÓº²»-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àê®ß
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•îÛ8úÓº²»-
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.( „Êº8úÓº²»-
+Isquid:S1166£"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ8úÓº²»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8úÓº²»-
+usquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¦ƒÀ8úÓº²»-
+Isquid:S1166Å"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ8úÓº²»-
+}squid:S1192m"_Define a constant instead of duplicating this literal "transactionDataBean.paymentAmt" 6 times.(İî²¸8úÓº²»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Èº­şÿÿÿÿ8úÓº²»-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8úÓº²»-
+msquid:S11922"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ8úÓº²»-

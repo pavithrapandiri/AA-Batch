@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="pack.AA_TN_TLP">
+        <methods>
+          <include name="AA_NewLoan_PPayment_StpY_2ndInstDuration_Payment_StpN"/>
+          <include name="Newloan_Default_Writeoff_WriteOffRecovery_LoanShouldClosed"/>
+          <include name="AA_OneCustomer_OneVIN_TwoLoans_Writoff"/>
+          <include name="Loan_InstallmentPayment_Void_TLP"/>
+          <include name="Loan_Letter10days1stDuedate_Miss1stInstPmt_RenewLoan1stDuedate_Pay1stInstAmtAfterletterGeneration_AppApportionate"/>
+          <include name="NewLoan_Agestore_beforeduedate_Partialpymt_Void"/>
+          <include name="Newloan_Default_Writeoff_WriteOffRecovery_void_LoanOpened"/>
+          <include name="NewLoan_PartialPayment_GenerateRenewLater10DaysBeforeDueDate_ShouldnotgenerateTheRenewalLater_PartialPayment"/>
+          <include name="TwoLoans_TwoCustomers_OneVIN_3rdLoanNotOriginate"/>
+          <include name="AA_Loan__Payment__RenewLoanDueDate__shouldnotdisplayVoid"/>
+          <include name="TwoLoans_singleVIN_OneDFLT_Other_ShouldNotDFLT2_Surrender_Salvage_Waive1"/>
+          <include name="AA_TwoLoans_OneVIN_OneDefault_Repossession_Salvage_Refund"/>
+          <include name="TwoLoans_singleVIN_OneDFLT_Other_ShouldNotDFLT2_Voluntary_Surrender_Salvage_Waived"/>
+          <include name="setup_Grid"/>
+          <include name="Newloan_1stinstTo3rdinstPayment_check4thinstpayment"/>
+          <include name="Loan_GenerateLetter_EOD1stInstDate_EOD2ndInstDate_Default_DefaultPmt_LoanShouldbeClosed"/>
+          <include name="NewLoan_Bi_Weekly_Frequency_Check_Duedate_30days"/>
+          <include name="TwoLoansonsameVin_Default_saleMoreAmount_RemainingAmountShouldbwaived"/>
+          <include name="NewLoan_PartialPayment_GenerateRenewLater10DaysBeforeDueDate_ShouldnotgenerateTheRenewalLater_1stand2ndinstallmentPayment_on2ndinstallmentdurationdate"/>
+          <include name="BorrowerNewLoan_Rule_TLP"/>
+          <include name="TwoLoansonsameVin_Default_Repossession_OneLoanAcution_ShouldnoteffectotherLoan"/>
+          <include name="BarrowRegistration_VerfyLoanAmountBased_BlockBookValueOrnot"/>
+          <include name="TwoLoansameVIN_Default_Repossion_repoPaymentmoreAmount_ShouldnoteffectotherLoan"/>
+          <include name="NewLoan_PartialPayment_GenerateRenewLater10DaysBeforeDueDate_ShouldnotgenerateTheRenewalLater"/>
+          <include name="tearDown"/>
+          <include name="TwoLoans_1VIN_1DFLT_2NotDFLT_Voluntary_Surrender_Auction_Salewithmorethantwoloans_TotalDue_Waived_OtherloanWaived"/>
+          <include name="Newloan_void"/>
+          <include name="TwoLoans_singleVIN_OneDFLT_Other_ShouldNotDFLT2_Voluntary_Surrender_Salvage_TwoloansTotalDue_2loansclosed_refund"/>
+          <include name="Loan_PartialPmtStopRenewal_LetterNotGenerate_EOD1stInsDueDate_LoanNotRenewed_Default_DFLTAmt"/>
+          <include name="NewLoan_multiplel_disbursement_void"/>
+          <include name="TwoLoans_1VIN_1DFLT_2NotDFLT_Voluntary_Surrender_Auction_SalewithlessAmt_Waived_OtherloanWaived"/>
+          <include name="Loan_GenerateLetter_EOD1stInstDate_EOD2ndInstDate_Default_DefaultPmt_Void_CheckLoanStatus"/>
+          <include name="Loan_PaymentForInterestAmount_paymentForFee_paymentforPrincipleAmount_ReviseSchedule"/>
+          <include name="AA_NewLoan_PartialPayment_StopRenew_EODDuedate"/>
+          <include name="TwoLoans_1VIN_1DFLT_2NotDFLT_Voluntary_Surrender_Auction_Salewithmorethanoneloan_TotalDue_Remainingsaletootherloan_remainingamtWaived"/>
+          <include name="initialize"/>
+          <include name="TwoLoans_singleVIN_OneDFLT_Other_ShouldNotDFLT2_Voluntary_Surrender_Salvage_MorethanoneloanTotalDue_Waived"/>
+          <include name="quit"/>
+          <include name="NewLoan_Rescind"/>
+          <include name="NewLoan_EODon10DaysBeforeInstallmentDuedate_RenewalLaterShouldBePrinted_OnDueDateEOD_Renewed"/>
+          <include name="TwoLoans_singleVIN_OneDFLT_Other_ShouldNotDFLT_VoluntarySurrender"/>
+          <include name="TwoLoansonsameVin_Default_saleLessAmount_RemainingAmountShouldbwaived"/>
+          <include name="NewLoan_Agestore_beforeduedate_Payoff_Void"/>
+          <include name="AA_NewLoan_PPayment_StpY_2inst_FeePriciple_PPayment"/>
+          <include name="NewLoan_EODon10DaysBeforeInstallmentDuedate_RenewalLaterShouldBePrinted"/>
+          <include name="AA_OneCustomer_OneVIN_TwoLoans_ThirdLoanNotOriginate_TLP"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- pack.AA_TN_TLP -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,68 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÏŠ´
+_squid:S1854°";Remove this useless assignment to local variable "DueDate".(ÔƒÚ¾ýÿÿÿÿ8þ†£ÉÀ-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýµµûýÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¡ˆÉ÷üÿÿÿÿ
+tsquid:S00117í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éŸƒùÿÿÿÿ
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+osquid:S00117ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™µí
+nsquid:S00117û"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÉß;
+tsquid:S00117°"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔƒÚ¾ýÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤þÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Á‘•
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ŸŽ†£úÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýµµûýÿÿÿÿ
+fsquid:S1192µ"IDefine a constant instead of duplicating this literal "beginDay" 4 times.(‚ÅƒÔüÿÿÿÿ
+ssquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+jsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¹¢†…8þ†£ÉÀ-
+osquid:S00117÷"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´Ùý
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(ËÔ­ý
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ýµµûýÿÿÿÿ
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(â¯èÀûÿÿÿÿ
+Ksquid:S1172"/Remove this unused method parameter "FileName".(ýµµûýÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”íê¿
+bsquid:S1192»"JDefine a constant instead of duplicating this literal "beginYear" 4 times.(ûØÿ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.( „Êº
+Jsquid:S1481í"-Remove this unused "DDueDate" local variable.(«éŸƒùÿÿÿÿ
+nsquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Û´äøÿÿÿÿ
+csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Ì¿Êì
+Usquid:S1197í"8Move the array designator from the variable to the type.(«éŸƒùÿÿÿÿ
+osquid:S00117ý"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œùë¢
+gsquid:S1192V"KDefine a constant instead of duplicating this literal "mainFrame" 10 times.(ËøÇªýÿÿÿÿ
+R
+squid:S106Ñ";Replace this usage of System.out or System.err by a logger.(ìëœð
+Zsquid:S1854*">Remove this useless assignment to local variable "TenderType".(ÊÞ³¨ÿÿÿÿÿ
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+osquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃöÙÔ
+asquid:S1132›"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýµµûýÿÿÿÿ
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(÷’¯·
+osquid:S1192\"XDefine a constant instead of duplicating this literal "Clicked on Transactions" 3 times.(ãÿÊˆ
+Ysquid:S1854í"<Remove this useless assignment to local variable "DDueDate".(«éŸƒùÿÿÿÿ
+V
+squid:S106:";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ
+osquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ8þ†£ÉÀ-
+ssquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýµµûýÿÿÿÿ
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµð–ýÿÿÿÿ
+Ksquid:S1481*"/Remove this unused "TenderType" local variable.(ÊÞ³¨ÿÿÿÿÿ
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ýµµûýÿÿÿÿ8°´žÉÀ-
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ
+Osquid:S1197û"8Move the array designator from the variable to the type.(ÏÉß;
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(»ò“
+„squid:S1192~"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 3 times.(÷æ£üÿÿÿÿ
+`squid:S1192L"IDefine a constant instead of duplicating this literal "topFrame" 3 times.(¥º³ç
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+hsquid:S1192¯"KDefine a constant instead of duplicating this literal "beginMonth" 4 times.(ìò€Ôþÿÿÿÿ
+Hsquid:S1481(",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(åêì°ùÿÿÿÿ
+Wsquid:S1854(";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+bsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.( „Êº
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(£©Êýÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ýµµûýÿÿÿÿ
+Q
+squid:S1066";Replace this usage of System.out or System.err by a logger.(¼ƒÅç

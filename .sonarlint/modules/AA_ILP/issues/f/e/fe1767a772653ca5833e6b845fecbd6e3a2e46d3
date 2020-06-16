@@ -1,0 +1,32 @@
+
+<<<<<<< HEAD
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿà‚–
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ðˆÙ—þÿÿÿÿ
+csquid:S1223."LRename this method to prevent any misunderstanding or make it a constructor.(Õ£†´
+7squid:S20687" Remove this hard-coded password.(¾”íÐ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…îÎ‰ÿÿÿÿÿ
+fsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àèØÕ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÑ„Ñ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì”å¿
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ç‘Þ‚ýÿÿÿÿ
+fsquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ£†´
+nsquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+Ksquid:EmptyStatementUsageCheckH"Remove this empty statement.(Åñ­õþÿÿÿÿ
+Lsquid:S2387"0"reports" is the name of a field in "AA_CO_ILP".(øÔß¥þÿÿÿÿ
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ
+=======
+csquid:S1223."LRename this method to prevent any misunderstanding or make it a constructor.(Õ£†´
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…îÎ‰ÿÿÿÿÿ
+7squid:S20687" Remove this hard-coded password.(¾”íÐ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ðˆÙ—þÿÿÿÿ
+fsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àèØÕ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿà‚–
+Isquid:S2387"-"reports" is the name of a field in "AA_ILP".(øÔß¥þÿÿÿÿ
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍÌÿÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckH"Remove this empty statement.(Åñ­õþÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÑ„Ñ
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ç‘Þ‚ýÿÿÿÿ
+fsquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ£†´
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì”å¿
+nsquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆêË
+>>>>>>> 103f8675e12064f21603070e60e2cd21b9708e81

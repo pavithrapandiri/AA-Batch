@@ -1,0 +1,90 @@
+
+esquid:S1854/"BRemove this useless assignment to local variable "CollateralType".(…íˆ„øÿÿÿÿ8ÙÏ­ó¿-
+{squid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ä»Éþÿÿÿÿ8ÙÏ­ó¿-
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+jsquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(ÖÜÚÕ8ÙÏ­ó¿-
+^
+squid:S106¨";Replace this usage of System.out or System.err by a logger.(ª–ò‰ýÿÿÿÿ8ÙÏ­ó¿-
+msquid:S1192C"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ8ÙÏ­ó¿-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÍ”·8ÙÏ­ó¿-
+gsquid:S1132é"HMove the "35" string literal on the left side of this string comparison.(¤¾òã8ÙÏ­ó¿-
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ß¬‚÷8ÙÏ­ó¿-
+Vsquid:S1481/"3Remove this unused "CollateralType" local variable.(…íˆ„øÿÿÿÿ8ÙÏ­ó¿-
+Tsquid:S1854–"6Remove this useless assignment to local variable "ee".(äÉ¸8ÙÏ­ó¿-
+usquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÙÏ­ó¿-
+zsquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ8ÙÏ­ó¿-
+X
+squid:S1062";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8ÙÏ­ó¿-
+isquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+csquid:S18540"@Remove this useless assignment to local variable "PayFrequency".(¨ë¤½úÿÿÿÿ8ÙÏ­ó¿-
+gsquid:S1132Ì"HMove the "30" string literal on the left side of this string comparison.(„Ú¹Ð8ÙÏ­ó¿-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÇÇÎþÿÿÿÿ
+jsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ïüŽˆ8ÙÏ­ó¿-
+gsquid:S1132Ý"HMove the "32" string literal on the left side of this string comparison.(¶¸ûî8ÙÏ­ó¿-
+zsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ8ÙÏ­ó¿-
+zsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ8ÙÏ­ó¿-
+Usquid:S1854#"7Remove this useless assignment to local variable "dt1".( Îøÿ8ÙÏ­ó¿-
+qsquid:S1871Ò"MThis branch's code block is the same as the block for the branch on line 205.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+\squid:S1197«"8Move the array designator from the variable to the type.(˜Ä»Éþÿÿÿÿ8ÙÏ­ó¿-
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ8ÙÏ­ó¿-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÍ”·8ÙÏ­ó¿-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ŸÍ”·8ÙÏ­ó¿-
+zsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…íˆ„øÿÿÿÿ8ÙÏ­ó¿-
+gsquid:S1132Õ"HMove the "29" string literal on the left side of this string comparison.(ª‰¹ø8ÙÏ­ó¿-
+Rsquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+Nsquid:S14816"+Remove this unused "AppURL" local variable.(Ž‹öµýÿÿÿÿ8ÙÏ­ó¿-
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+qsquid:S1871â"MThis branch's code block is the same as the block for the branch on line 222.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+qsquid:S1871Þ"MThis branch's code block is the same as the block for the branch on line 218.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+]
+squid:S106 ";Replace this usage of System.out or System.err by a logger.(õÔ¸¤þÿÿÿÿ8ÙÏ­ó¿-
+\squid:S1197©"8Move the array designator from the variable to the type.(×ž®‹üÿÿÿÿ8ÙÏ­ó¿-
+gsquid:S1132Ñ"HMove the "28" string literal on the left side of this string comparison.(œ¥—Ç8ÙÏ­ó¿-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ŸÍ”·8ÙÏ­ó¿-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ŸÍ”·8ÙÏ­ó¿-
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÙÏ­ó¿-
+zsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ë¤½úÿÿÿÿ8ÙÏ­ó¿-
+lsquid:S1132å"HMove the "34" string literal on the left side of this string comparison.(ð‹‰ûÿÿÿÿÿ8ÙÏ­ó¿-
+zsquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ8ÙÏ­ó¿-
+Tsquid:S1854""6Remove this useless assignment to local variable "dt".(¡Ú°×8ÙÏ­ó¿-
+l
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“8ÙÏ­ó¿-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+vsquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØžÃï8ÙÏ­ó¿-
+qsquid:S1871æ"MThis branch's code block is the same as the block for the branch on line 226.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+qsquid:S1871ê"MThis branch's code block is the same as the block for the branch on line 230.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+]squid:S18546":Remove this useless assignment to local variable "AppURL".(Ž‹öµýÿÿÿÿ8ÙÏ­ó¿-
+zsquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž‹öµýÿÿÿÿ8ÙÏ­ó¿-
+osquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¥¹˜øÿÿÿÿ8ÙÏ­ó¿-
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Tsquid:S14810"1Remove this unused "PayFrequency" local variable.(¨ë¤½úÿÿÿÿ8ÙÏ­ó¿-
+Esquid:S1481–"'Remove this unused "ee" local variable.(äÉ¸8ÙÏ­ó¿-
+nsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(Ô³Îòûÿÿÿÿ8ÙÏ­ó¿-
+zsquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔÄÁýÿÿÿÿ8ÙÏ­ó¿-
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(‚ÃçÙ8ÙÏ­ó¿-
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+usquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ÙÏ­ó¿-
+lsquid:S1132á"HMove the "33" string literal on the left side of this string comparison.(§Ïê¯ÿÿÿÿÿ8ÙÏ­ó¿-
+Šsquid:S1192Î"kDefine a constant instead of duplicating this literal "Date Difference for Monthly is as Expected" 8 times.(œ¡ø¡8ÙÏ­ó¿-
+gsquid:S1132a"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8ÙÏ­ó¿-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÍ”·8ÙÏ­ó¿-
+vsquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è®Ž8ÙÏ­ó¿-
+qsquid:S1871Ö"MThis branch's code block is the same as the block for the branch on line 210.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+qsquid:S1871Ú"MThis branch's code block is the same as the block for the branch on line 214.(ÒÌâ–øÿÿÿÿ8ÙÏ­ó¿-
+osquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÈÉÀºþÿÿÿÿ8ÙÏ­ó¿-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„½®¶ÿÿÿÿÿ8ÙÏ­ó¿-
+{squid:S00117©"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ž®‹üÿÿÿÿ8ÙÏ­ó¿-
+usquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øž$8ÙÏ­ó¿-
+usquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ä£Ø8ÙÏ­ó¿-
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+osquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ëéÉáøÿÿÿÿ8ÙÏ­ó¿-
+^
+squid:S106•";Replace this usage of System.out or System.err by a logger.(æ¤£‡üÿÿÿÿ8ÙÏ­ó¿-
+lsquid:S1132Ù"HMove the "31" string literal on the left side of this string comparison.(òÿºªüÿÿÿÿ8ÙÏ­ó¿-
+]
+squid:S1065";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8ÙÏ­ó¿-
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ðÝÍ
+¤ squid:MethodCyclomaticComplexity"qThe Cyclomatic Complexity of this method "Check_RCCSchd_Dates_Monthly" is 21 which is greater than 10 authorized.(ŸÍ”·8ÙÏ­ó¿-
+Y
+squid:S106¦";Replace this usage of System.out or System.err by a logger.(ˆç¦ 8ÙÏ­ó¿-
+gsquid:S1132o"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8ÙÏ­ó¿-

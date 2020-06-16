@@ -1,0 +1,34 @@
+
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚øo
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ðÝÍ
+isquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(à‚øo8úÝÁ‹»-
+Lsquid:S1481".Remove this unused "ProductID" local variable.(œñ†í8úÝÁ‹»-
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(à‚øo8™ûÖ‹»-
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(—ÈÉ¿ýÿÿÿÿ8úÝÁ‹»-
+[squid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í8úÝÁ‹»-
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚øo8™ûÖ‹»-
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8úÝÁ‹»-
+Lsquid:S1172"/Remove this unused method parameter "FileName".(à‚øo8· Èµ»-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(¤ƒæ¶ýÿÿÿÿ8úÝÁ‹»-
+fsquid:S11924"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ8· Èµ»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ8Øáÿç»-
+Wsquid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+Zsquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊÞ³¨ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:UselessImportCheck
+"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+Hsquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚øo
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(‚Ôˆ8úÝÁ‹»-
+Ksquid:S1481"/Remove this unused "TenderType" local variable.(ÊÞ³¨ÿÿÿÿÿ
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ì‹ñßÿÿÿÿÿ8úÝÁ‹»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛÚÇÿÿÿÿÿ8úÝÁ‹»-
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤þÿÿÿÿ

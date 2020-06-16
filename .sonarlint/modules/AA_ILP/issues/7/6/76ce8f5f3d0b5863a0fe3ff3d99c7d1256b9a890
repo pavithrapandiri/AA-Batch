@@ -1,0 +1,25 @@
+
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8õ¼²»-
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ8óÈ¼µ»-
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(“¡Ô—úÿÿÿÿ8õ¼²»-
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8õ¼²»-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ï³ÊÌ8°ª»µ»-
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’Ä§Éùÿÿÿÿ
+Msquid:S1172"/Remove this unused method parameter "FileName".(Ï³ÊÌ8óÈ¼µ»-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8õ¼²»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ8óÈ¼µ»-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï³ÊÌ8°ª»µ»-
+usquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8õ¼²»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï³ÊÌ8õ¼²»-
+msquid:S1192."JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ8õ¼²»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ8óÈ¼µ»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8õ¼²»-
+zsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8õ¼²»-
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Ô³Îòûÿÿÿÿ8õ¼²»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï³ÊÌ8õ¼²»-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Ï³ÊÌ8õ¼²»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8õ¼²»-
+]
+squid:S106 ";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8õ¼²»-

@@ -1,0 +1,48 @@
+
+zsquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ÈíøÏ¿-
+isquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+Rsquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+hsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(åĞ¥8ÈíøÏ¿-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿í¿Œıÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ·È8ÈíøÏ¿-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ·È8ÈíøÏ¿-
+]
+squid:S106.";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8ÈíøÏ¿-
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+usquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÈíøÏ¿-
+asquid:S1854%">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ8ÈíøÏ¿-
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ÈØöÈøÿÿÿÿ8ÈíøÏ¿-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8ÈíøÏ¿-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ·È8ÈíøÏ¿-
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(­ŸûÃ8ÈíøÏ¿-
+Osquid:S1481$",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8ÈíøÏ¿-
+^squid:S1854$";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8ÈíøÏ¿-
+zsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ÈíøÏ¿-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(æ·È8ÈíøÏ¿-
+usquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÈíøÏ¿-
+zsquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ÈíøÏ¿-
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ
+X
+squid:S106+";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8ÈíøÏ¿-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ÈíøÏ¿-
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¼¶Âüÿÿÿÿ8ÈíøÏ¿-
+Rsquid:S1481%"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ8ÈíøÏ¿-
+msquid:S1192="JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªıÿÿÿÿ8ÈíøÏ¿-
+Csquid:S1166f"%Either log or rethrow this exception.(¬Ù¨Í8ÈíøÏ¿-
+isquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(¯·Ä±8ÈíøÏ¿-
+zsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ÈíøÏ¿-
+nsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ëÑÃ¢øÿÿÿÿ8ÈíøÏ¿-
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æ·È8ÈíøÏ¿-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òôø‘8èšÿÏ¿-
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ8èšÿÏ¿-
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ8èšÿÏ¿-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÉËÚµùÿÿÿÿ8èšÿÏ¿-
+Msquid:S1172"/Remove this unused method parameter "FileName".(æ·È8èšÿÏ¿-

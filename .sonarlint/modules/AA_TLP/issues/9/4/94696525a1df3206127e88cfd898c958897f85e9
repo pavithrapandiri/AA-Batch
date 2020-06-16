@@ -1,0 +1,104 @@
+
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+asquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(¸Ã˜ 
+}squid:UselessImportCheckC"TRemove this unnecessary import: same package classes are always implicitly imported.(™äõ©ıÿÿÿÿ
+ksquid:UselessImportCheck3"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+isquid:UselessImportCheck0"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+dsquid:UselessImportCheck-";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.testng.AssertJUnit'.(ÊİÁ‘
+ssquid:UselessImportCheck/"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+Bsquid:UselessImportCheck7"Remove this duplicated import.(´ä
+Wsquid:UselessImportCheck"3Remove this unused import 'java.sql.DriverManager'.(“£°
+Bsquid:UselessImportCheckN"Remove this duplicated import.(ÛïÆŸ
+Wsquid:UselessImportCheckP"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(åÅ›é
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ÜÑ¸àøÿÿÿÿ
+Xsquid:UselessImportCheckS"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+Asquid:UselessImportCheckM"Remove this duplicated import.(ˆóÚw
+bsquid:UselessImportCheck">Remove this unused import 'org.testng.annotations.AfterClass'.(´ä
+Rsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+Wsquid:UselessImportCheck	"3Remove this unused import 'org.testng.ITestResult'.(ä¡±‘
+gsquid:UselessImportCheck:">Remove this unused import 'org.testng.annotations.BeforeTest'.(‚µö¨üÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Zsquid:UselessImportCheck#"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+Usquid:UselessImportCheck",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ
+Gsquid:UselessImportCheckU"Remove this duplicated import.(ªº»Úıÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+isquid:UselessImportCheck*"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Bsquid:UselessImportCheckK"Remove this duplicated import.(¥ËôÖ
+hsquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.AfterMethod'.(ÙÅ«§ÿÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.BeforeClass'.(Ó¨Ş¨ûÿÿÿÿ
+jsquid:S00101X"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„İàûÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+Ssquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+Bsquid:UselessImportCheckO"Remove this duplicated import.(ÏÖÔø
+gsquid:UselessImportCheck&"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»
+Tsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+`squid:UselessImportCheck""<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+Bsquid:UselessImportCheckL"Remove this duplicated import.(“£°
+ksquid:UselessImportCheck>"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+Xsquid:UselessImportCheckV"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+dsquid:UselessImportCheck)";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ
+^squid:UselessImportCheck,":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ
+Gsquid:UselessImportCheck9"Remove this duplicated import.(Ó¨Ş¨ûÿÿÿÿ
+asquid:UselessImportCheck8"=Remove this unused import 'org.testng.annotations.AfterTest'.(Ü³¹Ê
+Gsquid:UselessImportCheck;"Remove this duplicated import.(á½úáùÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+Vsquid:UselessImportCheckQ"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+lsquid:UselessImportCheck("HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+nsquid:UselessImportCheck="JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Rsquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+nsquid:S1192¬"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ8‚´·‚¾-
+Qsquid:S1199õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8‚´·‚¾-
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ğÁ°­8‚´·‚¾-
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(»ò“8‚´·‚¾-
+isquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(±÷…“8‚´·‚¾-
+nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(Ÿ†£úÿÿÿÿ8‚´·‚¾-
+nsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ8‚´·‚¾-
+osquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ÿ‰‡Ëıÿÿÿÿ8‚´·‚¾-
+osquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(·“¯Æÿÿÿÿÿ8‚´·‚¾-
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(²±Œ­øÿÿÿÿ8‚´·‚¾-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìŠ¹8‚´·‚¾-
+jsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.( „Êº8‚´·‚¾-
+osquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(„×°Ìüÿÿÿÿ8‚´·‚¾-
+jsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(å³ÿ8‚´·‚¾-
+]
+squid:S106`";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8‚´·‚¾-
+msquid:S1132â"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8‚´·‚¾-
+gsquid:S1132ê"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs8‚´·‚¾-
+hsquid:S1132ô"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8‚´·‚¾-
+gsquid:S1132¤"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs8‚´·‚¾-
+gsquid:S1132Ç"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs8‚´·‚¾-
+gsquid:S1132Ü"IMove the "TLP" string literal on the left side of this string comparison.(§Ùs8‚´·‚¾-
+˜ squid:MethodCyclomaticComplexityZ"`The Cyclomatic Complexity of this method "Payment_No" is 14 which is greater than 10 authorized.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+osquid:S1223Z"LRename this method to prevent any misunderstanding or make it a constructor.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+Osquid:S1481n",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8‚´·‚¾-
+Rsquid:S1481p"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ8‚´·‚¾-
+Qsquid:S1481v"3Remove this unused "ESign_DisbType" local variable.(Ï…êÿ8‚´·‚¾-
+Rsquid:S1481x"4Remove this unused "ESign_DisbType2" local variable.(›Ù·½8‚´·‚¾-
+usquid:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+rsquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+Rsquid:S1172Z"/Remove this unused method parameter "FileName".(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+jsquid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+asquid:S1854x"CRemove this useless assignment to local variable "ESign_DisbType2".(›Ù·½8‚´·‚¾-
+`squid:S1854v"BRemove this useless assignment to local variable "ESign_DisbType".(Ï…êÿ8‚´·‚¾-
+asquid:S1854p">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ8‚´·‚¾-
+^squid:S1854n";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8‚´·‚¾-
+zsquid:S00117Z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+zsquid:S00117Z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ©´ÿÿÿÿÿÿ8‚´·‚¾-
+usquid:S00117h"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8‚´·‚¾-
+zsquid:S00117n"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8‚´·‚¾-
+zsquid:S00117p"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8‚´·‚¾-
+usquid:S00117r"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8‚´·‚¾-
+usquid:S00117v"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï…êÿ8‚´·‚¾-
+usquid:S00117x"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ù·½8‚´·‚¾-
+vsquid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8‚´·‚¾-
+{squid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8‚´·‚¾-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8‚´·‚¾-

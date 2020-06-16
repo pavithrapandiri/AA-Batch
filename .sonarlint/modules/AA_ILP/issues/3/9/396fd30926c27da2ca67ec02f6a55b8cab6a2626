@@ -1,0 +1,92 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ8®åó¸»-
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ñÌß¸»-
+Osquid:UselessImportCheck"+Remove this unused import 'java.awt.Robot'.( Ã€¢
+usquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Î¶¶8ñÌß¸»-
+Vsquid:S1481;"3Remove this unused "AllowPromotion" local variable.(œÒóÚşÿÿÿÿ8ñÌß¸»-
+Dsquid:S1166•"%Either log or rethrow this exception.(¬Ù¨Í8ñÌß¸»-
+Msquid:S1172"/Remove this unused method parameter "FileName".(èê»Ë8®åó¸»-
+]
+squid:S106)";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8ñÌß¸»-
+Qsquid:S14819"3Remove this unused "ESign_DisbType" local variable.(Ï…êÿ8ñÌß¸»-
+`squid:S1854@"BRemove this useless assignment to local variable "ESign_CheckNbr".(ß•îÛ8ñÌß¸»-
+^squid:S1854>"@Remove this useless assignment to local variable "ESign_Checks".(”Î¶¶8ñÌß¸»-
+usquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ñÌß¸»-
+usquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È˜Ä½8ñÌß¸»-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(èê»Ë8ñÌß¸»-
+zsquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8ñÌß¸»-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(¼üƒ’8ñÌß¸»-
+usquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•îÛ8ñÌß¸»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èê»Ë8ñÌß¸»-
+ksquid:S1854:"MRemove this useless assignment to local variable "ESign_CourtesyCallConsent".(Á£¼8ñÌß¸»-
+]squid:S18540":Remove this useless assignment to local variable "NewVIN".(ò½’Òÿÿÿÿÿ8ñÌß¸»-
+zsquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉœŸûÿÿÿÿ8ñÌß¸»-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ğ€¸£ùÿÿÿÿ8ñÌß¸»-
+zsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ñÌß¸»-
+Ssquid:S1481/"0Remove this unused "VehicleType" local variable.(÷Öäƒÿÿÿÿÿ8ñÌß¸»-
+_squid:S18547"ARemove this useless assignment to local variable "ESign_LoanAmt".(×Èà8ñÌß¸»-
+usquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Èà8ñÌß¸»-
+Nsquid:S1481-"0Remove this unused "ProductName" local variable.(õƒ‡ö8ñÌß¸»-
+Rsquid:S1481""/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ8ñÌß¸»-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ8®åó¸»-
+gsquid:S1854="DRemove this useless assignment to local variable "ESign_Preference".(õİğÍşÿÿÿÿ8ñÌß¸»-
+X
+squid:S106B";Replace this usage of System.out or System.err by a logger.(úöÓ‰8ñÌß¸»-
+Dsquid:S1166Ÿ"%Either log or rethrow this exception.(¬Ù¨Í8ñÌß¸»-
+`squid:S1854<"=Remove this useless assignment to local variable "CouponNbr".(ûşÑ´ıÿÿÿÿ8ñÌß¸»-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ìï´
+^squid:S1854!";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8ñÌß¸»-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(èê»Ë8ñÌß¸»-
+zsquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õİğÍşÿÿÿÿ8ñÌß¸»-
+asquid:S1854"">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ8ñÌß¸»-
+zsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò½’Òÿÿÿÿÿ8ñÌß¸»-
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ñÌß¸»-
+Nsquid:S14810"+Remove this unused "NewVIN" local variable.(ò½’Òÿÿÿÿÿ8ñÌß¸»-
+Osquid:S1481>"1Remove this unused "ESign_Checks" local variable.(”Î¶¶8ñÌß¸»-
+Osquid:S1481!",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8ñÌß¸»-
+Qsquid:S1481@"3Remove this unused "ESign_CheckNbr" local variable.(ß•îÛ8ñÌß¸»-
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Qsquid:S1481?"3Remove this unused "ESign_Password" local variable.(ìƒÆ8ñÌß¸»-
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+usquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ñÌß¸»-
+esquid:S1854;"BRemove this useless assignment to local variable "AllowPromotion".(œÒóÚşÿÿÿÿ8ñÌß¸»-
+zsquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûşÑ´ıÿÿÿÿ8ñÌß¸»-
+msquid:S1192M"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ8ñÌß¸»-
+X
+squid:S1066";Replace this usage of System.out or System.err by a logger.(ìÍ¢8ñÌß¸»-
+zsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8ñÌß¸»-
+]
+squid:S106C";Replace this usage of System.out or System.err by a logger.(ˆÉƒñüÿÿÿÿ8ñÌß¸»-
+usquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï…êÿ8ñÌß¸»-
+zsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Öäƒÿÿÿÿÿ8ñÌß¸»-
+`squid:S1854?"BRemove this useless assignment to local variable "ESign_Password".(ìƒÆ8ñÌß¸»-
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ñÌß¸»-
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+usquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìƒÆ8ñÌß¸»-
+Psquid:S14817"2Remove this unused "ESign_LoanAmt" local variable.(×Èà8ñÌß¸»-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(èê»Ë8ñÌß¸»-
+bsquid:S1854/"?Remove this useless assignment to local variable "VehicleType".(÷Öäƒÿÿÿÿÿ8ñÌß¸»-
+usquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8ñÌß¸»-
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(»ò“8ñÌß¸»-
+Xsquid:UselessImportCheck"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ
+\squid:S1481:">Remove this unused "ESign_CourtesyCallConsent" local variable.(Á£¼8ñÌß¸»-
+isquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(°¤û¯8ñÌß¸»-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ8ñÌß¸»-
+zsquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÒóÚşÿÿÿÿ8ñÌß¸»-
+isquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+isquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.( „Êº8ñÌß¸»-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èê»Ë8ñÌß¸»-
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+`squid:S18549"BRemove this useless assignment to local variable "ESign_DisbType".(Ï…êÿ8ñÌß¸»-
+Qsquid:S1481<".Remove this unused "CouponNbr" local variable.(ûşÑ´ıÿÿÿÿ8ñÌß¸»-
+zsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ñÌß¸»-
+]squid:S1854-"?Remove this useless assignment to local variable "ProductName".(õƒ‡ö8ñÌß¸»-
+usquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õƒ‡ö8ñÌß¸»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èê»Ë8ñÌß¸»-
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+Xsquid:S1481="5Remove this unused "ESign_Preference" local variable.(õİğÍşÿÿÿÿ8ñÌß¸»-

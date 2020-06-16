@@ -1,0 +1,81 @@
+
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(óƒÊş8‡÷Å¶ü-
+=squid:S1166ù"%Either log or rethrow this exception.(¬Ù¨Í
+|squid:S1192Ÿ"dDefine a constant instead of duplicating this literal "transactionDataBean.tenderAmtSecond" 3 times.(îÛ×
+esquid:S1132~"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+zsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÑ¾íûÿÿÿÿ8®ŠÌéƒ.
+|squid:S1192"XDefine a constant instead of duplicating this literal "Tender Type ref is 1234" 4 times.(¾Ğùûÿÿÿÿ8¤¡úéƒ.
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(¥íœùÿÿÿÿ
+j
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡’èåùÿÿÿÿ
+gsquid:S1192¦"ODefine a constant instead of duplicating this literal "Cashiers Check" 3 times.(ê¿Ï™
+usquid:S1192‡"]Define a constant instead of duplicating this literal "Payment Amt is entered as 20" 3 times.(µ‹§ş
+‚squid:S1192–"eDefine a constant instead of duplicating this literal "transactionDataBean.tenderTypeSecond" 3 times.(¡•—şÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹öµıÿÿÿÿ
+Fsquid:S1481)"0Remove this unused "TenderType1" local variable.(îÑ¸Q
+{squid:S1192’"cDefine a constant instead of duplicating this literal "transactionDataBean.tenderAmtFirst" 3 times.(£ã¿‘
+osquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(®æÈÈøÿÿÿÿ8¤¡úéƒ.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥íœùÿÿÿÿ
+Ksquid:S1172"/Remove this unused method parameter "FileName".(¥íœùÿÿÿÿ
+squid:S1192­"jDefine a constant instead of duplicating this literal "Tender Type is Selected as Cashiers Check" 3 times.(ã’äÌûÿÿÿÿ8Íı”èƒ.
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šóÕÖ
+Msquid:S1068"*Remove this unused "String" private field.(•Ú»áıÿÿÿÿ8¨ş”éƒ.
+wsquid:S1192†"_Define a constant instead of duplicating this literal "transactionDataBean.paymentAmt" 3 times.(±Æ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤şÿÿÿÿ
+hsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¥íœùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥íœùÿÿÿÿ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÔĞÉøÿÿÿÿ
+Vsquid:S1854#":Remove this useless assignment to local variable "AppURL".(‹öµıÿÿÿÿ
+Vsquid:S1854*"?Remove this useless assignment to local variable "TenderType2".(Úğ›õ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ
+msquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑ¸Q
+lsquid:S1132¦"TMove the "Cashiers Check" string literal on the left side of this string comparison.(ê¿Ï™
+esquid:S1132`"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ
+e
+squid:S134…"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ã“ÁŞ
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(®æÈÈøÿÿÿÿ8œ–±êƒ.
+esquid:S1132o"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ
+isquid:S1132‚"QMove the "Money Order" string literal on the left side of this string comparison.(äá‰§
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥íœùÿÿÿÿ
+squid:S1192‰"dDefine a constant instead of duplicating this literal "transactionDataBean.tenderTypeFirst" 3 times.(®Ñ©üÿÿÿÿ
+Hsquid:S1481 ",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+Usquid:S1854)"?Remove this useless assignment to local variable "TenderType1".(îÑ¸Q
+e
+squid:S134¦"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ê¿Ï™
+tsquid:S3008"QRename this field "String" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ú»áıÿÿÿÿ8¨ş”éƒ.
+Gsquid:S1068")Remove this unused "array" private field.(İşÈ™8¨ş”éƒ.
+[squid:S1854/"8Remove this useless assignment to local variable "SSN4".(ÔÑ¾íûÿÿÿÿ8¤¡úéƒ.
+nsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úğ›õ
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+j
+squid:S134ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+ squid:MethodCyclomaticComplexity"mThe Cyclomatic Complexity of this method "LoanPartialPayment_Diff" is 15 which is greater than 10 authorized.(¥íœùÿÿÿÿ
+dsquid:S1192‚"LDefine a constant instead of duplicating this literal "Money Order" 3 times.(äá‰§
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(ê€Ï•
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+Wsquid:S1854 ";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+bsquid:UselessImportCheck
+">Remove this unused import 'org.testng.annotations.AfterClass'.(´ä
+isquid:S1192“"RDefine a constant instead of duplicating this literal "Tender1 AMT is 10" 3 times.(üÛÜv
+Lsquid:S1481/")Remove this unused "SSN4" local variable.(ÔÑ¾íûÿÿÿÿ8¤¡úéƒ.
+Gsquid:S1481#"+Remove this unused "AppURL" local variable.(‹öµıÿÿÿÿ
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(”®Ã€8û¯Ò¶ü-
+fsquid:S1192?"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+gsquid:S1132Ô"JMove the "Cash" string literal on the left side of this string comparison.(¡’èåùÿÿÿÿ
+Bsquid:S00108ù")Either remove or fill this block of code.(¬Ù¨Í
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+e
+squid:S134‚"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äá‰§
+osquid:S1192 "RDefine a constant instead of duplicating this literal "Tender2 AMT is 10" 3 times.(¡“´ãıÿÿÿÿ
+Gsquid:S1481*"0Remove this unused "TenderType2" local variable.(Úğ›õ
+osquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(Û•ãúÿÿÿÿ8¤¡úéƒ.
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûõ×À
+e
+squid:S134ü"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥íœùÿÿÿÿ

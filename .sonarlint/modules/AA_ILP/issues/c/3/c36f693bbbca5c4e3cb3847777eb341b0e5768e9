@@ -1,0 +1,42 @@
+
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âåœñ8ŒÖËŒ»-
+dsquid:S1854l"ARemove this useless assignment to local variable "PaymentAmount".(Ä‘‘äÿÿÿÿÿ8ŒÖËŒ»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç…“†úÿÿÿÿ8ŒéÈµ»-
+Isquid:S1166"%Either log or rethrow this exception.(šýš´ýÿÿÿÿ8ŒÖËŒ»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ŒÖËŒ»-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ŸŽ†£úÿÿÿÿ8ŠìÌ´»-
+isquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ê€Ï•8ŒÖËŒ»-
+Msquid:S1172"/Remove this unused method parameter "FileName".(âåœñ8ŒéÈµ»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«îÒ€üÿÿÿÿ8ŒÖËŒ»-
+isquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(ûý¸ÿ8ŒÖËŒ»-
+msquid:S1192."JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªýÿÿÿÿ8ŒÖËŒ»-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(âåœñ8¯­Ë´»-
+Rsquid:S1481"/Remove this unused "TenderType" local variable.(ÊÞ³¨ÿÿÿÿÿ8ŒÖËŒ»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ŒÖËŒ»-
+‹squid:S1192C"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 3 times.(÷æ£üÿÿÿÿ8ŒÖËŒ»-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âåœñ8¯­Ë´»-
+asquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊÞ³¨ÿÿÿÿÿ8ŒÖËŒ»-
+zsquid:S00117l"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘‘äÿÿÿÿÿ8ŒÖËŒ»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âåœñ8ŒÖËŒ»-
+Osquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8ŒÖËŒ»-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÔ¸¤þÿÿÿÿ8ŒÖËŒ»-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âåœñ8ŒÖËŒ»-
+nsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(ÀåÙ´þÿÿÿÿ8ŒÖËŒ»-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(âåœñ8ŒÖËŒ»-
+isquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.( „Êº8ŒÖËŒ»-
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ8ŒÖËŒ»-
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.( „Êº8ŒÖËŒ»-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(âåœñ8ŒÖËŒ»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ŒÖËŒ»-
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.( „Êº8ŒÖËŒ»-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ð’£Ó
+usquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ŒÖËŒ»-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ8ŒÖËŒ»-
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ8ŒÖËŒ»-
+^squid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8ŒÖËŒ»-
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼ƒÅç8ŒÖËŒ»-
+]
+squid:S106!";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ8ŒÖËŒ»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ8ŠìÌ´»-
